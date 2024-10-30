@@ -1,0 +1,5 @@
+faustine;mdp1;false
+soumaya;mdp2;false
+valentin;mdp3;false
+florent;mdp4;false
+admin;admin;true
